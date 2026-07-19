@@ -1,0 +1,19 @@
+.dark{
+    background-color: black;
+    color:white;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.light{
+    background-color: white;
+    color:black;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
